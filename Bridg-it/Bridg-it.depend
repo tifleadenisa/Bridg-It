@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1578942480 source:c:\users\denisa\desktop\bridg-it\main.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<MMSystem.h>
+	<cstdlib>
+	<mmsystem.h>
+
